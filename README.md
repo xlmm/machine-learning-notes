@@ -100,8 +100,8 @@ Out-of-distribution, Neural Network Calibration, Gumbel-Max trick, Stochastic Be
 How GAN works, Traditional GAN, Mathematics on W-GAN, Info-GAN, Bayesian GAN   GAN如何工作，传统GAN，W-GAN数学，Info-GAN，贝叶斯GAN
 
 * ### [A survey of traditional and state-of-the-art Generative Models](https://github.com/roboticcam/machine-learning-notes/blob/master/files/generative_models.pdf) ###
-How Varational Autoencoder works, Importance Weighted Autoencoders, Normalized Flow via ELBO, Adversarial Variational Bayes, Mixture Density VAE, stick-breaking VAE
- 变分自编码器的工作原理，重要性加权自编码器，通过ELBO的标准化流，对抗变分贝叶斯, 混合密度自编码器，stick-breaking 自编码器
+This tutorial covers Variational Autoencoders (VAEs) and advanced extensions like Importance Weighted Autoencoders, Normalizing Flows via ELBO, and Adversarial Variational Bayes. It also explores mixture models including Mixture Density and Stick-Breaking VAEs, Dirichlet Process Mixture Models (DPMM) with their SDE variants, and Flow Matching.
+本教程涵盖变分自编码器 (VAE) 及其高级扩展，如重要性加权自编码器、基于 ELBO 的标准化流和对抗变分贝叶斯。此外，还探讨了混合密度 VAE、断棍过程 VAE、狄利克雷过程混合模型 (DPMM) 及其 SDE 版本，以及流匹配等混合模型技术。
  
 * ### [Infinite Depth: NeuralODE and Adjoint Equation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/neuralODE_Adjoint.pdf) ###
 
